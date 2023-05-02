@@ -1,2 +1,2 @@
 # Credits
-@thalber 
+[@thalber](https://github.com/thalber)
