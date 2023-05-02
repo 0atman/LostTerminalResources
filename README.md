@@ -14,4 +14,5 @@ A hopepunk podcast following the journey of a little satellite trying to underst
 
 ## Resources
 
-`/scripts` contains scripts of lost terminal episodes
+`/scripts/` contains scripts of lost terminal episodes
+`/translations/` contain community-added translations - if you see mistakes, send me a PR! 
