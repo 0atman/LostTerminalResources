@@ -1,0 +1,1 @@
+"Person" when referring to potentially nonhuman person - "индивид"
