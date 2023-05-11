@@ -2,6 +2,7 @@
 "stationkeeping" - "коррекция орбиты"
 "brownout" - "полусбой питания", "полусбой"
 "meatspace" - "плотепространство"
+"unnecessarily salty" - "слишком солоно"
 
 Matt - Мэтт
 Matts - Мэттс
